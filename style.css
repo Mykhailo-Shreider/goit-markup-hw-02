@@ -18,10 +18,16 @@ ul {
 .team-list p {
     color: #434455;
 }
+.team-list h3 {
+    font-weight: 500;
+        font-size: 20px;
+}
 .benetits-list p {
     color: #434455;
+    font-weight: 400;
+        font-size: 16px;
     }
-.benetits-list {
+.benetits-list h3 {
     font-weight: 500;
         font-size: 20px;
 }
