@@ -1,10 +1,23 @@
 body {
     font-family: "Roboto", sans-serif;
-    color: ;
+    color: #2e2f42;
 }
 a {
     text-decoration: none;
+    color: #2e2f42;
 }
 ul {
     list-style-type: none;
 }
+.portfolio-list p {
+    color: #434455;
+}
+.team-list p {
+    color: #434455;
+}
+    .benetits-list p {
+    color: #434455;
+    }
+    span {
+        color: #4d5ae5;
+    }
