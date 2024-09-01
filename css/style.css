@@ -1,9 +1,10 @@
 body {
     font-family: "Roboto", sans-serif;
-    color: #2e2f42;
+    color: #434455;
     font-size: 16px;
     line-height: 120%;
     letter-spacing: 0.02em;
+    background-color: #FFFFFF;
 }
 a {
     text-decoration: none;
@@ -12,27 +13,21 @@ a {
 ul {
     list-style-type: none;
 }
-.portfolio-list p {
-    color: #434455;
-}
-.team-list p {
-    color: #434455;
-}
+
 .team-list h3 {
     font-weight: 500;
-        font-size: 20px;
+    font-size: 20px;
 }
 .benetits-list p {
-    color: #434455;
     font-weight: 400;
-        font-size: 16px;
+    font-size: 16px;
     }
 .benetits-list h3 {
     font-weight: 500;
-        font-size: 20px;
+    font-size: 20px;
 }
 span {
-        color: #4d5ae5;
+    color: #2e2f42;
 }
 .order-button {
     cursor: pointer;
@@ -44,23 +39,22 @@ span {
     color: #fff;
     line-height: 107%;
     font-weight: 700;
-        font-size: 56px;
+    font-size: 56px;
 }
 .logo {
-letter-spacing: 0.03em; 
-font-family: "Raleway", sans-serif;
+    letter-spacing: 0.03em; 
+    font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
     text-transform: uppercase;
+    color: #4d5ae5;
 }
 
-.page-contacts {
-    color: #434455;
-}
+
 .order-button {
-font-family: "Roboto", sans-serif;
-background: #4d5ae5;
-letter-spacing: 0.04em;
+    font-family: "Roboto", sans-serif;
+    background: #4d5ae5;
+    letter-spacing: 0.04em;
     color: #fff;
     font-weight: 500;
     font-size: 16px;
