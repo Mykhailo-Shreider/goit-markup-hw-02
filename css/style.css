@@ -2,21 +2,13 @@ body {
     font-family: "Roboto", sans-serif;
     color: #434455; 
     background-color: #FFFFFF;
+    text-decoration: none;
 }
-
-
-
-.team-list h3 {
-    font-weight: 500;
-    font-size: 20px;
+ul {
+    list-style-type: none;
 }
-.benetits-list p {
-    font-weight: 400;
-    font-size: 16px;
-    }
-.benetits-list h3 {
-    font-weight: 500;
-    font-size: 20px;
+a {
+    text-decoration: none;
 }
 span {
     color: #2e2f42;
@@ -66,7 +58,6 @@ span {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
-
 }
 .nav-link:hover {
     color: #404bbf;
@@ -82,10 +73,54 @@ span {
 line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+    
 }
 .contact-link:hover {
     color: #404bbf;
 }
 .contact-link:focus {
     color: #404bbf;
+}
+.benefits-title {
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.benetits-list p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    }
+
+
+
+
+
+
+
+.team-title {
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+
+
+
+
+
+
+
+
+
+
+.team-list h3 {
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.benetits-list h3 {
+    font-weight: 500;
+    font-size: 20px;
 }
