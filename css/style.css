@@ -133,13 +133,10 @@ line-height: 1.5;
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
-    стиль letter-spacing: 0.02em
+    стиль letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
 
-}
-.portfolio-list img {
-    width: 360px;
 }
 .portfolio-point {
     font-weight: 500;
@@ -153,14 +150,14 @@ line-height: 1.5;
     letter-spacing: 0.02em;
 }
 
-footer {
+.page-footer {
     background-color: #2e2f42;
 
 }
 .footer-logo {
     color: #f4f4fd;
 }
-footer p{
+.footer-text {
     line-height: 1.5;
     color: #F4F4FD;
     letter-spacing: 0.02em
